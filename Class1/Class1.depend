@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1495141826 source:c:\users\alumno-g\downloads\class1\main.cpp
+	<iostream>
+	"Complejitos.h"
+
+1495141778 c:\users\alumno-g\downloads\class1\include\complejitos.h
+
+1495141740 source:c:\users\alumno-g\downloads\class1\src\complejitos.cpp
+	"Complejitos.h"
+	<iostream>
+
